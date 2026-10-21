@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="rab6.vcxproj" Id="49b871fc-f86c-4b61-bdcd-8c0ec47137ec" />
+</Solution>
